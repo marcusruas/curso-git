@@ -7,6 +7,10 @@ namespace Curso
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+
+            string resposta = Console.ReadLine();
+
+            Console.WriteLine(resposta);
         }
     }
 }
